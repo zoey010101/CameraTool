@@ -1,0 +1,10 @@
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\bin\Debug\CameraHelper.exe.config
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\bin\Debug\CameraHelper.exe
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\bin\Debug\CameraHelper.pdb
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\obj\Debug\CameraHelper.Properties.Resources.resources
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\obj\Debug\CameraHelper.csproj.GenerateResource.cache
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\obj\Debug\CameraHelper.csproj.CoreCompileInputs.cache
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\obj\Debug\CameraHelper.exe
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\obj\Debug\CameraHelper.pdb
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\obj\Debug\CameraHelper.CameraHelp.resources
+E:\c_sharp\Myproject\CameraHelper\CameraHelper\obj\Debug\CameraHelper.csprojAssemblyReference.cache
